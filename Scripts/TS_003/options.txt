@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\$arra003\Documents\VuGen\Scripts\WebHttpHtml1
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\$arra003\documents\vugen\scripts\webhttphtml1\\logfile.log
+c:\users\$arra003\documents\vugen\scripts\webhttphtml1\\combined_WebHttpHtml1.c
+c:\users\$arra003\documents\vugen\scripts\webhttphtml1\\pre_cci.c

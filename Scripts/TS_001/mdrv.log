@@ -1,0 +1,24 @@
+Virtual User Script started at: 1/21/2021 7:48:26 AM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.60.0 for Windows 2016; build 971 (Aug 09 2018 11:27:13)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\$arra003\Documents\VuGen\Scripts\WebHttpHtml1\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(3): web_custom_request("web_custom_request") started  	[MsgId: MMSG-26355]
+Action.c(3): Found resource "http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js" in HTML "https://blazedemo.com/"  	[MsgId: MMSG-26659]
+Action.c(3): Found resource "https://blazedemo.com/assets/bootstrap.min.js" in HTML "https://blazedemo.com/"  	[MsgId: MMSG-26659]
+Action.c(3): Found resource "https://blazedemo.com/assets/bootstrap-table.js" in HTML "https://blazedemo.com/"  	[MsgId: MMSG-26659]
+Action.c(3): Found resource "https://blazedemo.com/assets/bootstrap.min.css" in HTML "https://blazedemo.com/"  	[MsgId: MMSG-26659]
+Action.c(3): Found resource "https://blazedemo.com/assets/bootstrap-table.css" in HTML "https://blazedemo.com/"  	[MsgId: MMSG-26659]
+Action.c(3): web_custom_request("web_custom_request") was successful, 67882 body bytes, 2323 header bytes, 1484 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
